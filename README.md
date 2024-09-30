@@ -1,5 +1,5 @@
 # project1
-# web scrapping
+# web scrapping(locating multiple products )
 
 import random
 
